@@ -14,10 +14,10 @@ This repository contains starter code and prompts for a hands-on workshop on usi
 
   - `python-demo/`: Complex Python application examples
   - `frontend-demo/`: Advanced Next.js/React application examples
-  - `data-processing/`: Data processing and analysis examples
   - `prompts.md`: Advanced prompts for complex code generation tasks
 
-- `nextjs-template/`: A starter Next.js template for frontend development exercises
+- `nextjs-template/`: A starter Next.js template for frontend development exercises, this is what's been used as the base template for the frontend-demo
+- Refer to nextjs documentations on starting the server locally, making sure to install the required dependencies like nodeJS and npm for your local machine. 
 
 ## Purpose
 
